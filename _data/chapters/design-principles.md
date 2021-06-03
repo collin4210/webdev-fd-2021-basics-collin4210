@@ -7,7 +7,7 @@ The challenge is to develop an application that tries to increase the user’s p
 The term "user experience" was first coined by Don Norman in the early 1990s when he was working at Apple (NORMAN, 2013, P. XIII F.). User experience comprises all aspects of a user’s interaction with a company, its services, and its products. The focus and most important goal of good user experience is to meet the user’s needs in every aspects. Close cooperation is required between different disciplines, such as engineering, marketing, graphic design, industrial design, and interface design (NORMAN & NIELSEN, N.D.).
 
 > »Good design is actually a lot harder to notice than poor design, in part because good designs fit our needs so well that the design is invisible, serving us without drawing attention to itself. Bad design, on the other hand, screams out its inadequacies, making itself very noticeable.«
-> - Don Norman
+> – Don Norman
 
 User experience captures everything a user experiences while using a given product, from the visuals, the haptics, and the audio to how the product feels. User experience of a product comprises three primary factors: its look, feel, and usability (IXDF - UX DESIGN, N.D.) (→ FIG. 04).
 
